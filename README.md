@@ -1,4 +1,4 @@
-# Assignment 4: Windows Ransomware Early Detection
+# Assignment 3: Windows Ransomware Early Detection
 
 This is our implementation of the RENTAKA algorithm based on the Zakaria et al. (2024) paper. 
 
